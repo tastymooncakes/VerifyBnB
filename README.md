@@ -58,10 +58,12 @@ Need to have a Capture Account. Can create one via the [Capture Dashboard](https
 ## 📸 Screenshots
 
 ### Property Listings
-![Property Listings](screenshots/Screenshot 2025-10-15 at 10.40.32 PM.png)
+![Property Listings](screenshots/property-listings.png)
+
 
 ### Receipt Timeline
-![Receipt Timeline](screenshots/Screenshot 2025-10-15 at 10.41.08 PM.png)
+![Receipt Timeline](screenshots/receipt.png)
+
 
 ## 🔗 Blockchain Receipts
 
