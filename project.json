@@ -1,0 +1,50 @@
+{
+  "name": "VerifyBnB - Student Housing Rental Receipts",
+  "tagline": "Blockchain-verified receipts for student rental inspections",
+  "description": "A no-code platform built with Bubble.io that creates immutable blockchain receipts for student housing move-in/move-out inspections using Numbers Protocol. Protects renters security deposits & renters properties with cryptographic proof of apartment condition.",
+  
+  "challenge": "Proof Your Rental Receipt",
+  "track": "RealFi - Financial Access & Coordination Infrastructure",
+  
+  "team": {
+    "members": [
+      {
+        "name": "Ethan Wu",
+        "role": "Developer",
+        "github": "tastymooncakes"
+      }
+    ]
+  },
+  
+  "technologies": {
+    "frontend": ["Bubble.io"],
+    "blockchain": ["Numbers Protocol", "ERC-7053", "Avalanche Subnet"],
+    "tools": ["ProofSnap", "Capture API"]
+  },
+  
+  "links": {
+    "demo": "https://www.youtube.com/watch?v=YOUR_VIDEO",
+    "live_app": "https://2025-hackathon.bubbleapps.io/version-test/",
+    "github": "https://github.com/tastymooncakes/VerifyBnB",
+    "slides": "https://docs.google.com/presentation/d/YOUR_SLIDES"
+  },
+  
+  "blockchain_receipts": {
+    "minimum_events": 3,
+    "event_types": ["Initial Registration", "Rental Agreement Created", "Check-In Submitted", "Check-Out Submitted", "Rental Agreement Closed"]
+  },
+  
+  "setup": {
+    "no_installation_required": true,
+    "live_demo": "Visit the live Bubble.io app link above",
+    "api_keys_required": ["None, Only Capture Token"]
+  },
+  
+  "architecture": "No-code Bubble.io frontend → API Connector → Numbers Protocol Capture API → Numbers Mainnet",
+  
+  "impact": {
+    "problem": "Students lose millions in security deposits to unfair damage claims with no proof of apartment condition",
+    "solution": "Immutable blockchain receipts with timestamped photos that neither landlord nor tenant can alter",
+    "market": "20+ millions of renters, billions in disputed deposits annually"
+  }
+}
