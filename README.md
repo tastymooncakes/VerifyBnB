@@ -13,7 +13,7 @@ Students lose millions in security deposits annually due to unfair damage claims
 
 ## 💡 Solution
 
-DormProof creates **blockchain-verified receipts** for rental inspections:
+VerifyBnB creates **blockchain-verified receipts** for rental inspections:
 - Students upload photos at move-in and move-out
 - Each event is recorded as an **ERC-7053 commit** on Numbers Protocol
 - Creates immutable, timestamped proof that protects both parties
@@ -45,6 +45,8 @@ DormProof creates **blockchain-verified receipts** for rental inspections:
 
 **App:** [https://2025-hackathon.bubbleapps.io/version-test/](https://2025-hackathon.bubbleapps.io/version-test/)  
 
+**Full Demo Video:** [Demo Video](https://www.canva.com/design/DAG16XnAsyg/gRDaUKsLnUusZqFn9k_b1Q/watch?utm_content=DAG16XnAsyg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h294efe99f2) 
+
 ### Prerequisites
 Need to have a Capture Account. Can create one via the [Capture Dashboard](https://dashboard.captureapp.xyz/main) platform.
 
@@ -64,6 +66,8 @@ Need to have a Capture Account. Can create one via the [Capture Dashboard](https
 ### Receipt Timeline
 ![Receipt Timeline](screenshots/receipt.png)
 
+## 👤 User Flow
+![User Flow](diagrams/UserFlow.png)
 
 ## 🔗 Blockchain Receipts
 
@@ -89,14 +93,17 @@ Need to have a Capture Account. Can create one via the [Capture Dashboard](https
   ]
 }
 ```
+### Full Commit Structure of Rental Agreement
+![Receipt Timeline](diagrams/CommitStructure.png)
 
 ## 🛠️ Technical Stack
 
 - **Frontend:** Bubble.io (no-code platform)
-- **Blockchain:** Numbers Protocol (Avalanche Subnet)
+- **Blockchain:** Numbers Mainnet
 - **Standard:** ERC-7053 commits
 - **API:** Numbers Protocol Capture API
 - **Integration:** Bubble API Connector
+- **External Tools** ProofSnap
 
 ### No Installation Required!
 This is a no-code application. To run:
@@ -112,6 +119,7 @@ This is a no-code application. To run:
 
 ## 🚀 Future Enhancements
 
+- Create with modern tech-stack (React, Next.JS)
 - Multi-signature receipts (landlord + tenant co-sign)
 - Renter Dashboard
 - Integration with property management systems
@@ -125,8 +133,4 @@ MIT
 
 ## 🙏 Acknowledgments
 
-Built for RealFi Hack 2025 using Numbers Protocol's Capture API.
-
----
-
-**Questions?** Open an issue or contact [your email]
+Built for RealFi Hack 2025 using Numbers Protocol's Capture API, ProofSnap, Bubble, & Numbers Mainnet.

@@ -18,7 +18,7 @@
   
   "technologies": {
     "frontend": ["Bubble.io"],
-    "blockchain": ["Numbers Protocol", "ERC-7053", "Avalanche Subnet"],
+    "blockchain": ["Numbers Protocol", "ERC-7053", "Numbers Mainnet"],
     "tools": ["ProofSnap", "Capture API"]
   },
   
