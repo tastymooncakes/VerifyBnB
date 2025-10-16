@@ -45,7 +45,7 @@ VerifyBnB creates **blockchain-verified receipts** for rental inspections:
 
 **App:** [https://2025-hackathon.bubbleapps.io/version-test/](https://2025-hackathon.bubbleapps.io/version-test/)  
 
-**Full Demo Video:** [Demo Video](https://www.canva.com/design/DAG16XnAsyg/gRDaUKsLnUusZqFn9k_b1Q/watch?utm_content=DAG16XnAsyg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h294efe99f2) 
+**Full Demo Video:** [Demo Video](https://youtu.be/LIqaJmgtn_4) 
 
 ### Prerequisites
 Need to have a Capture Account. Can create one via the [Capture Dashboard](https://dashboard.captureapp.xyz/main) platform.
