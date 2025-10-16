@@ -1,6 +1,7 @@
 # VerifyBnB - Student Housing Rental Receipts
 
 > Blockchain-verified receipts for student housing move-in/move-out inspections
+> [Detailed Presentation](https://youtu.be/Zj6cJgsUBCA)
 
 **🏆 RealFi Hack 2025 Submission**  
 **Challenge:** Proof Your Rental Receipt
