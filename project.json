@@ -23,10 +23,9 @@
   },
   
   "links": {
-    "demo": "https://www.youtube.com/watch?v=YOUR_VIDEO",
+    "demo": "https://youtu.be/LIqaJmgtn_4",
     "live_app": "https://2025-hackathon.bubbleapps.io/version-test/",
-    "github": "https://github.com/tastymooncakes/VerifyBnB",
-    "slides": "https://docs.google.com/presentation/d/YOUR_SLIDES"
+    "github": "https://github.com/tastymooncakes/VerifyBnB"
   },
   
   "blockchain_receipts": {
